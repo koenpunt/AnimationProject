@@ -3819,6 +3819,13 @@ react-native-drawer@^2.5.0:
     prop-types "^15.5.8"
     tween-functions "^1.0.1"
 
+react-native-gesture-handler@^1.0.0-alpha.35:
+  version "1.0.0-alpha.35"
+  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-1.0.0-alpha.35.tgz#c16cf97151223cb8d4902d6dd597dc1612d8cb33"
+  dependencies:
+    invariant "^2.2.2"
+    prop-types "^15.5.10"
+
 react-native-paper@0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/react-native-paper/-/react-native-paper-0.0.7.tgz#d8540f41d057c6626d147772b297e8d17227e641"
